@@ -1,0 +1,52 @@
+.team1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+.team1 h2{
+font-family: Georgia, 'Times New Roman', Times, serif;
+   
+    font-size: 50px;
+
+}
+.team2{
+    display: flex;
+}
+.teamimg{
+    width: 25rem;
+    height: 30rem;
+ padding: 20px;
+}
+.teamimg img{
+    width: 100%;
+    height: 100%;
+}
+.team4{
+    width: 600px;
+ padding: 10px;
+}
+.team-member-image {
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+  }
+  
+  .designation {
+    color: rgb(0, 0, 0);
+    letter-spacing: -1px;
+  }
+  .team5{
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    display: flex;
+  
+    height: auto;
+    padding: 5% 5%;
+    margin: 20px 20px 10px 114px;
+  }
